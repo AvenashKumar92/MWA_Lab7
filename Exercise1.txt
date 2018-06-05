@@ -1,0 +1,12 @@
+{
+	authors: ["William", "Warner"],
+	ISBN: "978-3-16-148410-0",
+	keywords: ["word1", "word2"],
+	borrowedDate:new Date("2018-06-05"),
+	dueDate:new Date("2018-07-04"),
+	student:{
+		"name":"Avenash",
+		"id":"986435"
+	}
+}
+
